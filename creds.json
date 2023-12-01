@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rifaeracing",
+  "private_key_id": "1c7fd9f3d86fc3312a0f2263960d7351f849b17d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWIWanMicr1TR8\niaFNUi6c5ShIXy0Ma6C1gJmy3IycvRlDh1iu+QCLcp6Ce5rejd3jqG+ANrOXgKbG\nq/c/4IH5U9ixwA7MWGMf1K7D+csfVFDYvHmag9OM6tWVBjr+farNDIWCvEBYkNia\nbmXvY6Uwv8objRjrBhFM7U+hWovJnPTjvkjHff3jtj17Fv3mxoEibD+YIRSxdYlQ\nMmgtMPhenC24d6sc27TXC3+ZjS+PqejFPQMFBY1A7F+JoHxvAw/PCkfVGZrVgfbw\nSbzSB+BXbpZ/Oskkz4w3Hm9K/wXujsdXll1PuagRCm20twNI7zKUgdz9Ir9GKNIx\nLpD4K4ivAgMBAAECggEAM3XXe7r72vbkJEHXOAPWG/KembX115RODRCY33lNeaWg\nWrA+Sd6hmOG04lrePzoM51dlZITA6FoMupY9V2aXFdpmq2EirU1YlR/B2GtBu4fB\n3jR9bPrdbnJJXgUfTGXbFGg79c1UEXTN+V8qtDtYSbztz207XdAZfElT580g5xSW\nqyogv1Pks401zY+uXEoGUCXrzNqZHF5sV0C4tKJ8RqxdQBSIFXQbVgE5oNgCWUL/\nWnh+NiHpGAvSeG8CFIA4/tcNOvsI0NoPAQ+f/uxFL5ayvbcScuy2/8SyS9d7+HXp\nYJV5tUkR0EhSMrTLSkhekYoTVYiYC51iWh0xljdJIQKBgQD5aSjtL4Y321APrOLJ\n+p9OnXXdBtPmkewxH2vPzKd/e/+WMqFX7BGB64uxaxaUo3EuA+fQoPC0pkSNQGHX\n+IhCeekpuzP4TFgtB29f3Bs6+xWU96uu9cptVIs6Pg9MYlhEZnY5QuSPLxYDyjzy\nN3uPKd2cO0xNp6vz45ormHTMtwKBgQDbyaE5gGv02m8xsaNIoWk+Ycj453k6n37M\n5jfBiuhyEnxHvbjOGnQrie8Ns205Nzpgno1DDq5cdP8YyqrSDALjdALZ/xstxOYL\nZRaM90kQcbUQJsDeiBr3m4zVqdsV1rDGxyTZh5HaWQ/HESUn7652wIyz+L6npNYJ\nxjlYm5ybyQKBgQC9C6t81LfsYKy3pPil1fSodwuehA1byCF6PnHOqTYQmGFrbGcF\nKKdAjdRtn1kXQyeHlGhCp6qrkxeE5VcEh5pooNVNz1qeCugPAYK26zQsqaJ7LpuQ\nWzebVSjO9blM0YJMHkngL0blDPCn4MP/aHScWERkpkG43q2kiFEUWFO30wKBgDGq\nASV2MG7WwROQmV37I0X2YKxl2c32Zne0edrhIZ9NMAoiA9WGwsNn2r3U0pSAN0/H\n5BHICnxX76DRgwINtsVg3JgX/jM8b+MZR5w48KinmQt6RlDCnp1e59cMF7Z6md2A\n+IGzEbEuONN5u1Sn41twLRsp1SMaq0bwJNsx5pSJAoGBAOsAFisH3ayzaWIqUjPD\nvt60EbED2uZsnXK7DQkP8/ZIAdFclSgt4RUjxZpDAEO4F/AiKST4xzmAzcj6uj2H\nscak5eRl3Txj3Gm69t/cfgifMjSaXMNMgZKcQL7oDxQ5sD+CFFlyfPjpUtil5qui\nruM5Peeo8gVenpgg4ypohNko\n-----END PRIVATE KEY-----\n",
+  "client_email": "eracing@rifaeracing.iam.gserviceaccount.com",
+  "client_id": "104698872416780930132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eracing%40rifaeracing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
